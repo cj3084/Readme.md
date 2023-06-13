@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Two Projects**
 
-- 🌱 I’m currently learning **Data Structure and Python**
+- 🌱 I’m currently learning **DS-ML**
 
 - 👨‍💻 My social media handle  **https://www.linkedin.com/in/chinmay-jain-782562231/**
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love to interact with people**
 
-- 👨‍💻 Currently working on Startup idea.
+- 👨‍💻  I like to undertake challenging projects in the field of software development which helps me learn new technologies that would strengthen my skills in Computer Science.
 
 ## 🚀 Languages and Tools:
 
